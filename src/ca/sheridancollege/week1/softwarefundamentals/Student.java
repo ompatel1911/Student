@@ -7,7 +7,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
 
 /**
  *
- * @author Om Patel.
+ * @author Om Patel june 1 2021.
  */
 public class Student {
     
