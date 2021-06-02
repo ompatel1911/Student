@@ -13,6 +13,26 @@ public class Student {
     
     private String name;
 
+    private String numbersOfHours;
+
+    /**
+     * Get the value of numbersOfHours
+     *
+     * @return the value of numbersOfHours
+     */
+    public String getNumbersOfHours() {
+        return numbersOfHours;
+    }
+
+    /**
+     * Set the value of numbersOfHours
+     *
+     * @param numbersOfHours new value of numbersOfHours
+     */
+    public void setNumbersOfHours(String numbersOfHours) {
+        this.numbersOfHours = numbersOfHours;
+    }
+
     /**
      * Get the value of name
      *
